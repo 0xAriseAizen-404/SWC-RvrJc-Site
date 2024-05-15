@@ -4,7 +4,7 @@ Welcome to the Student Wellness Center project repository for RVRJC College!
 
 ## Visit Our Website
 
-For more information about the Student Wellness Center and the services we offer, please visit our [official website](https://arise-aizen-404.github.io/SWC-RvrJc-Site/).
+For more information about the Student Wellness Center and the services we offer, please visit our [official website](https://rvrjcce.ac.in/studentwellnesscenter/Project-SWC/index.html).
 
 ## My Experience
 
